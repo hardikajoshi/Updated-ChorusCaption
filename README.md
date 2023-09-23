@@ -18,9 +18,9 @@ The MusicCaps dataset contains 5,521 music examples, each of which is labeled wi
 The labeled examples are 10s music clips from the AudioSet dataset (2,858 from the eval and 2,663 from the train split).
 <br>
 <h3> Output:</h3>
-![Screenshot 2023-09-23 162412](https://github.com/hardikajoshi/Updated-ChorusCaption/assets/90562304/a467d542-199d-45ab-a8f7-8b8f735fc4e3)
+[Screenshot 2023-09-23 162412](https://github.com/hardikajoshi/Updated-ChorusCaption/assets/90562304/a467d542-199d-45ab-a8f7-8b8f735fc4e3)
 
-![Screenshot 2023-09-23 162457](https://github.com/hardikajoshi/Updated-ChorusCaption/assets/90562304/48def064-6fd9-4b16-97e7-f1ad7b420574)
+[Screenshot 2023-09-23 162457](https://github.com/hardikajoshi/Updated-ChorusCaption/assets/90562304/48def064-6fd9-4b16-97e7-f1ad7b420574)
 
 
 Requires `datasets[audio]`, `ffmpeg`, `yt-dlp`, `torchaudio`.
