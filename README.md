@@ -15,8 +15,6 @@ The MusicCaps dataset contains 5,521 music examples, each of which is labeled wi
  The text is solely focused on describing how the music sounds, not the metadata like the artist name.
 <br>
 <br>
-The labeled examples are 10s music clips from the AudioSet dataset (2,858 from the eval and 2,663 from the train split).
-<br>
 <h3> Output:</h3>
 
 ![Screenshot 2023-09-23 162412](https://github.com/hardikajoshi/Updated-ChorusCaption/assets/90562304/e187f058-add8-4d6e-b7c0-03a8405cb851)
